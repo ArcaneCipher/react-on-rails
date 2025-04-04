@@ -1,4 +1,4 @@
-/home/labber/lighthouse/projects/react-on-rails/client
+.
 ├── README.md
 ├── client_tree.txt
 ├── eslint.config.js
