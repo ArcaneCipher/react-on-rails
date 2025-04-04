@@ -1,12 +1,5 @@
-// Main SASS entry point
-@import './base/reset';
-@import './base/typography';
-@import './utils/variables';
-@import './layouts/grid';
-@import './components/buttons';
-@import './pages/home';
-@import './components/app';
-@import './base/globals';
-@import './layouts/header';
-@import './layouts/footer';
-@import './layouts/layout';
+@use './base';
+@use './utils';
+@use './layouts';
+@use './components';
+@use './pages';
